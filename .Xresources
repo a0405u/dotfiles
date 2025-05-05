@@ -1,0 +1,7 @@
+Xft.dpi: 216
+XTerm*renderFont: true
+XTerm*faceName: VeraMono
+XTerm*faceSize: 10
+Xterm*background: black
+Xterm*foreground: grey
+XTerm*reverseVideo: true

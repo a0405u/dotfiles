@@ -1,0 +1,14 @@
+{
+    "auxiliary_fan": "0",
+    "from": "User",
+    "inherits": "Flashforge Adventurer 5M 0.4 Nozzle",
+    "is_custom_defined": "0",
+    "name": "Flashforge Adventurer 5M 0.4 Custom",
+    "print_host": "192.168.88.22:7125",
+    "print_host_webui": "192.168.88.22:4000",
+    "printer_settings_id": "Flashforge Adventurer 5M 0.4 Custom",
+    "version": "2.0.2.0",
+    "z_hop": [
+        "0"
+    ]
+}

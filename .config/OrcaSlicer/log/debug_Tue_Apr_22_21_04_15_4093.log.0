@@ -1,0 +1,11 @@
+[warning]	2025-04-22 21:04:15.470607[Thread 0x00007d4d670f9cc0]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-04-22 21:04:15.470681[Thread 0x00007d4d670f9cc0]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-04-22 21:04:15.470698[Thread 0x00007d4d670f9cc0]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-04-22 21:04:16.757458[Thread 0x00007d4d670f9cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-22 21:04:17.233481[Thread 0x00007d4d670f9cc0]:21:04:17: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-22 21:04:17.237620[Thread 0x00007d4d670f9cc0]:21:04:17: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-22 21:04:17.238232[Thread 0x00007d4d670f9cc0]:21:04:17: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-22 21:04:17.278637[Thread 0x00007d4d670f9cc0]:21:04:17: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-22 21:04:19.027539[Thread 0x00007d4d670f9cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-22 21:04:19.532129[Thread 0x00007d4c870856c0]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-04-22 21:04:36.170994[Thread 0x00007d4d670f9cc0]:calc_exclude_triangles:Unable to create exclude triangles

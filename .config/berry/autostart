@@ -1,0 +1,20 @@
+berryc draw_text false
+berryc title_height 0
+berryc focus_color 555555
+berryc inner_focus_color 000000
+berryc unfocus_color 333333
+berryc inner_unfocus_color 000000
+berryc border_width 2
+berryc inner_border_width 0
+
+berryc switch_workspace 1
+berryc resize_mask "mod4"
+berryc resize_button 3
+
+# berryc manage Dialog|Toolbar|Menu|Splash|Utility
+
+~/.config/berry/session
+sxhkd ~/.config/berry/sxhkdrc &
+~/.config/polybar/launch.sh &
+nekoray &
+

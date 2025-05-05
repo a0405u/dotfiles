@@ -1,0 +1,12 @@
+[Bookmarks]
+[Recent]
+/home/a0405u/dev/silver/models/
+/home/a0405u/three-dimentional/Silver/
+/home/a0405u/dev/conrem/continuous-remeshing/data/
+/home/a0405u/downloads/
+/home/a0405u/dev/conrem/continuous-remeshing/out/meshes/
+/home/a0405u/dev/conrem/continuous-remeshing/out/
+/home/a0405u/dev/conrem/continuous-remeshing/out/target_images/
+/home/a0405u/dev/conrem/continuous-remeshing/scene/
+/home/a0405u/dev/conrem/continuous-remeshing/out/images/
+/home/a0405u/dev/conrem/continuous-remeshing/out/meshes/root/

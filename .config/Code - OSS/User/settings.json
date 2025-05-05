@@ -1,0 +1,46 @@
+{
+    "workbench.colorTheme": "Noctis High Contrast",
+    "window.menuBarVisibility": "toggle",
+    "window.dialogStyle": "custom",
+    "editor.fontFamily": "'Meslo LG M', 'monospace', monospace",
+    "cmake.showOptionsMovedNotification": false,
+    "explorer.confirmDragAndDrop": false,
+
+    "launch": {
+        "configurations": 
+        [
+            {
+                "type": "lua-local",
+                "request": "launch",
+                "name": "Debug LOVE",
+                "program":
+                {
+                    "command": "love"
+                },
+                "args": 
+                [
+                    "${workspaceFolder}",
+                    "vsc_debug"
+                ],
+            },
+        ]
+    },
+    "pixelbyte.love2d.path": "/usr/bin/love",
+    "Beautify active file": false,
+    "Love2d_Run": false,
+    "explorer.confirmDelete": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[csharp]": {
+        "editor.maxTokenizationLineLength": 2500
+    },
+    "dotnet.codeLens.enableReferencesCodeLens": false,
+    "files.exclude": {
+        "**/*.uid": true
+    },
+    "editor.largeFileOptimizations": false,
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.size": "fit",
+}

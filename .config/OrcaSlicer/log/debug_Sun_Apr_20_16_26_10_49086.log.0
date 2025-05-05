@@ -1,0 +1,40 @@
+[warning]	2025-04-20 16:26:11.867201[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-04-20 16:26:11.867267[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_bind_detect
+[warning]	2025-04-20 16:26:11.867272[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_set_server_callback
+[warning]	2025-04-20 16:26:11.867276[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-04-20 16:26:11.867289[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-04-20 16:26:12.755486[Thread 0x00007db428bedcc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-20 16:26:12.760610[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\Printing\LampClamp.3mf
+[error]	2025-04-20 16:26:12.760623[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\Printing\LampClamp.stp
+[error]	2025-04-20 16:26:12.760627[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\Downloads\Pipe cap 0.75 inch.3mf
+[error]	2025-04-20 16:26:12.760630[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\Printing\Downloads\printbed+scraper.3mf
+[error]	2025-04-20 16:26:12.760633[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\AppleMold.3mf
+[error]	2025-04-20 16:26:12.760636[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\moonpyxgravityproject.3mf
+[error]	2025-04-20 16:26:12.760639[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\Trackball.3mf
+[error]	2025-04-20 16:26:12.760642[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\Downloads\hue shell.3mf
+[error]	2025-04-20 16:26:12.760645[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\NozzleGridfinityBin.3mf
+[error]	2025-04-20 16:26:12.760648[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\Trackball.stp
+[error]	2025-04-20 16:26:12.760651[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\BoardPegGlueGun.3mf
+[error]	2025-04-20 16:26:12.760653[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\BoardPegGlueGun.stp
+[error]	2025-04-20 16:26:12.760656[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\NozzleGridfinityBin.stp
+[error]	2025-04-20 16:26:12.760659[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\Printing\Downloads\corne-v4.1-left-top-plates.3mf
+[error]	2025-04-20 16:26:12.760662[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\CordSpool.stp
+[error]	2025-04-20 16:26:12.760665[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\Printing\Downloads\printbed+scraper.stl
+[error]	2025-04-20 16:26:12.760668[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\MarkedKeycapBox.3mf
+[error]	2025-04-20 16:26:12.760673[Thread 0x00007db428bedcc0]:Unable to open the fileC:\Users\a0405u\3D\MarkedKeycapBox.stp
+[warning]	2025-04-20 16:26:13.196571[Thread 0x00007db428bedcc0]:16:26:13: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-20 16:26:13.208722[Thread 0x00007db428bedcc0]:16:26:13: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-20 16:26:13.210360[Thread 0x00007db428bedcc0]:16:26:13: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-20 16:26:13.225426[Thread 0x00007db428bedcc0]:16:26:13: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-20 16:26:14.922173[Thread 0x00007db428bedcc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-20 16:26:15.998440[Thread 0x00007db3178866c0]:[install_plugin]: 1385, got 3 files
+[warning]	2025-04-20 16:26:16.149862[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-04-20 16:26:16.149892[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_bind_detect
+[warning]	2025-04-20 16:26:16.149896[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_set_server_callback
+[warning]	2025-04-20 16:26:16.149898[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-04-20 16:26:16.149911[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_get_profile_3mf
+[warning]	2025-04-20 16:26:16.150480[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-04-20 16:26:16.150495[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-04-20 16:26:16.150506[Thread 0x00007db428bedcc0]:get_network_function, can not find function bambu_network_get_profile_3mf
+[warning]	2025-04-20 16:26:17.622985[Thread 0x00007db3063fe6c0]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[error]	2025-04-20 16:31:49.902009[Thread 0x00007db428bedcc0]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+# exec nitrogen --restore &
+exec ~/.config/polybar/launch.sh &
+exec nekoray &
+# exec mpd &
+exec sxhkd ~/.config/worm/sxhkdrc &
+
+wormc border-width 2
+wormc border-active-pixel $((16#FF666666))
+wormc border-inactive-pixel $((16#FF333333))
+
+# wormc frame-active-pixel $((16#FF$pywal_active))
+# wormc frame-inactive-pixel $((16#FF$pywal_inactive))
+# wormc text-active-pixel $(contrast_text_for $pywal_active)
+# wormc text-inactive-pixel $(contrast_text_for $pywal_inactive)
+
+# wormc layout tiling
+wormc struts 75 20 20 20
+wormc gaps 20
+wormc frame-height 0
+wormc focus-mode 1
+wormc modifier 64

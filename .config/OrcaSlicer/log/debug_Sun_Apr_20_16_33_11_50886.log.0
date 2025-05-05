@@ -1,0 +1,27 @@
+[warning]	2025-04-20 16:33:11.364813[Thread 0x00007444de19dcc0]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-04-20 16:33:11.364883[Thread 0x00007444de19dcc0]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-04-20 16:33:11.364899[Thread 0x00007444de19dcc0]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-04-20 16:33:11.976160[Thread 0x00007444de19dcc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-20 16:33:11.981454[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\Printing\LampClamp.3mf
+[error]	2025-04-20 16:33:11.981471[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\Printing\LampClamp.stp
+[error]	2025-04-20 16:33:11.981475[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\Downloads\Pipe cap 0.75 inch.3mf
+[error]	2025-04-20 16:33:11.981479[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\Printing\Downloads\printbed+scraper.3mf
+[error]	2025-04-20 16:33:11.981483[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\AppleMold.3mf
+[error]	2025-04-20 16:33:11.981486[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\moonpyxgravityproject.3mf
+[error]	2025-04-20 16:33:11.981489[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\Trackball.3mf
+[error]	2025-04-20 16:33:11.981492[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\Downloads\hue shell.3mf
+[error]	2025-04-20 16:33:11.981495[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\NozzleGridfinityBin.3mf
+[error]	2025-04-20 16:33:11.981498[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\Trackball.stp
+[error]	2025-04-20 16:33:11.981501[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\BoardPegGlueGun.3mf
+[error]	2025-04-20 16:33:11.981504[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\BoardPegGlueGun.stp
+[error]	2025-04-20 16:33:11.981507[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\NozzleGridfinityBin.stp
+[error]	2025-04-20 16:33:11.981511[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\Printing\Downloads\corne-v4.1-left-top-plates.3mf
+[error]	2025-04-20 16:33:11.981514[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\CordSpool.stp
+[error]	2025-04-20 16:33:11.981517[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\Printing\Downloads\printbed+scraper.stl
+[error]	2025-04-20 16:33:11.981520[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\MarkedKeycapBox.3mf
+[error]	2025-04-20 16:33:11.981523[Thread 0x00007444de19dcc0]:Unable to open the fileC:\Users\a0405u\3D\MarkedKeycapBox.stp
+[warning]	2025-04-20 16:33:12.217797[Thread 0x00007444de19dcc0]:16:33:12: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-20 16:33:12.222264[Thread 0x00007444de19dcc0]:16:33:12: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-20 16:33:12.222687[Thread 0x00007444de19dcc0]:16:33:12: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-20 16:33:12.224435[Thread 0x00007444de19dcc0]:16:33:12: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-20 16:33:13.929923[Thread 0x00007444de19dcc0]:calc_exclude_triangles:Unable to create exclude triangles

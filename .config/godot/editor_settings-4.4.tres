@@ -1,0 +1,120 @@
+[gd_resource type="EditorSettings" load_steps=13 format=3]
+
+[sub_resource type="InputEventKey" id="InputEventKey_b0hds"]
+device = -1
+command_or_control_autoremap = true
+keycode = 79
+
+[sub_resource type="Shortcut" id="Shortcut_esk03"]
+events = [SubResource("InputEventKey_b0hds")]
+
+[sub_resource type="InputEventKey" id="InputEventKey_w8ygv"]
+device = -1
+keycode = 4194325
+
+[sub_resource type="Shortcut" id="Shortcut_apur5"]
+events = [SubResource("InputEventKey_w8ygv")]
+
+[sub_resource type="InputEventKey" id="InputEventKey_vbvxy"]
+device = -1
+command_or_control_autoremap = true
+keycode = 85
+
+[sub_resource type="Shortcut" id="Shortcut_m4jqy"]
+events = [SubResource("InputEventKey_vbvxy")]
+
+[sub_resource type="InputEventKey" id="InputEventKey_vopdq"]
+device = -1
+shift_pressed = true
+ctrl_pressed = true
+keycode = 4194306
+
+[sub_resource type="Shortcut" id="Shortcut_rs5kv"]
+events = [SubResource("InputEventKey_vopdq")]
+
+[sub_resource type="InputEventKey" id="InputEventKey_mcu3b"]
+device = -1
+ctrl_pressed = true
+keycode = 4194306
+
+[sub_resource type="Shortcut" id="Shortcut_tlmbt"]
+events = [SubResource("InputEventKey_mcu3b")]
+
+[sub_resource type="InputEventKey" id="InputEventKey_g2pw1"]
+command_or_control_autoremap = true
+alt_pressed = true
+keycode = 75
+unicode = 75
+
+[sub_resource type="InputEventKey" id="InputEventKey_3sjqx"]
+keycode = 4194326
+
+[resource]
+interface/editor/editor_screen = -2
+interface/theme/base_color = Color(0.21, 0.24, 0.29, 1)
+interface/theme/accent_color = Color(0.44, 0.73, 0.98, 1)
+interface/theme/contrast = 0.3
+text_editor/external/exec_path = "code"
+text_editor/external/use_external_editor = true
+editors/3d_gizmos/gizmo_settings/bone_axis_length = 0.1
+editors/3d/navigation/emulate_numpad = false
+network/connection/network_mode = 1
+editors/3d/navigation/orbit_modifier = 0
+editors/3d/navigation/pan_modifier = 1
+editors/3d/navigation/zoom_modifier = 4
+export/android/java_sdk_path = ""
+export/android/android_sdk_path = ""
+export/android/debug_keystore = "/home/a0405u/.local/share/godot/keystores/debug.keystore"
+export/android/debug_keystore_pass = "android"
+export/macos/rcodesign = ""
+export/web/http_port = 8060
+export/web/tls_key = ""
+export/web/tls_certificate = ""
+export/windows/rcedit = ""
+export/windows/osslsigncode = ""
+export/windows/wine = ""
+_default_feature_profile = ""
+_use_favorites_root_selection = false
+network/debug_adapter/request_timeout = 1000
+editors/grid_map/editor_side = 1
+dotnet/editor/external_editor = 0
+dotnet/editor/custom_exec_path = ""
+dotnet/editor/custom_exec_path_args = ""
+dotnet/build/verbosity_level = 2
+dotnet/build/problems_layout = 1
+plugin/script_ide/outline_position_right = true
+plugin/script_ide/hide_private_members = false
+plugin/script_ide/script_list_visible = false
+plugin/script_ide/auto_navigate_in_filesystem_dock = true
+plugin/script_ide/open_outline_popup = SubResource("Shortcut_esk03")
+plugin/script_ide/open_scripts_popup = SubResource("Shortcut_m4jqy")
+plugin/script_ide/open_quick_search_popup = SubResource("Shortcut_apur5")
+plugin/script_ide/tab_cycle_forward = SubResource("Shortcut_tlmbt")
+plugin/script_ide/tab_cycle_backward = SubResource("Shortcut_rs5kv")
+plugin/script_ide/engine_callbacks = true
+plugin/script_ide/functions = true
+plugin/script_ide/signals = true
+plugin/script_ide/exported_properties = true
+plugin/script_ide/properties = true
+plugin/script_ide/classes = true
+plugin/script_ide/constants = true
+_editor_settings_advanced_mode = false
+_project_settings_advanced_mode = false
+_export_template_download_directory = ""
+_script_setup_templates_dictionary = {}
+_script_setup_use_script_templates = false
+shortcuts = [{
+"name": "editor/clear_output",
+"shortcuts": [SubResource("InputEventKey_g2pw1")]
+}, {
+"name": "spatial_editor/viewport_zoom_modifier_1",
+"shortcuts": [SubResource("InputEventKey_3sjqx")]
+}, {
+"name": "spatial_editor/viewport_zoom_modifier_2",
+"shortcuts": []
+}]
+metadata/script_setup_templates_dictionary = {
+"CharacterBody3D": "0CharacterBody3DBasic Movement",
+"Marker3D": "0NodeDefault",
+"Node": "0NodeDefault"
+}

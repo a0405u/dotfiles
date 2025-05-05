@@ -1,0 +1,52 @@
+{
+    "cool_plate_temp": [
+        "55"
+    ],
+    "default_filament_colour": [
+        "#A4F5FF"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "55"
+    ],
+    "filament_max_volumetric_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "eSUN ePLA-Matte Light-Blue 0.8"
+    ],
+    "filament_vendor": [
+        "eSUN"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "55"
+    ],
+    "inherits": "Flashforge Generic PLA",
+    "is_custom_defined": "0",
+    "name": "eSUN ePLA-Matte Light-Blue 0.8",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "pressure_advance": [
+        "0.036"
+    ],
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "slow_down_min_speed": [
+        "4"
+    ],
+    "textured_plate_temp": [
+        "55"
+    ],
+    "version": "2.0.2.0"
+}

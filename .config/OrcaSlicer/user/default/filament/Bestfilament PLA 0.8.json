@@ -1,0 +1,49 @@
+{
+    "cool_plate_temp": [
+        "55"
+    ],
+    "default_filament_colour": [
+        "#D3F889"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "55"
+    ],
+    "filament_max_volumetric_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "Bestfilament PLA 0.8"
+    ],
+    "filament_vendor": [
+        "Bestfilament Green-Yellow"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "55"
+    ],
+    "inherits": "Flashforge Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Bestfilament PLA 0.8",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "pressure_advance": [
+        "0.036"
+    ],
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "textured_plate_temp": [
+        "55"
+    ],
+    "version": "2.0.2.0"
+}

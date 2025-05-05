@@ -1,0 +1,22 @@
+[warning]	2025-03-18 21:15:31.278762[Thread 0x000019cc]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-18 21:15:31.280766[Thread 0x000019cc]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-18 21:15:37.265825[Thread 0x000019cc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-18 21:15:37.278911[Thread 0x00000d0c]:Unable to open the fileC:\Users\a0405u\Downloads\hue shell.3mf
+[error]	2025-03-18 21:15:37.278911[Thread 0x00003654]:Unable to open the fileC:\Users\a0405u\Downloads\corne-v4.1-left-top-plates.stl
+[error]	2025-03-18 21:15:37.289960[Thread 0x00003748]:Unable to open the fileC:\Users\a0405u\3D\Printing\Downloads\printbed+scraper.stl
+[error]	2025-03-18 21:15:37.289960[Thread 0x0000520c]:Unable to open the fileC:\Users\a0405u\3D\moonpylogo.stl
+[error]	2025-03-18 21:15:37.293471[Thread 0x00003654]:Unable to open the fileC:\Users\a0405u\3D\BoardPegGlueGun.stp
+[error]	2025-03-18 21:15:37.295476[Thread 0x000045d4]:Unable to open the fileC:\Users\a0405u\3D\Trackball.stp
+[error]	2025-03-18 21:15:37.301493[Thread 0x0000537c]:Unable to open the fileC:\Users\a0405u\3D\MarkedKeycapBox.stp
+[error]	2025-03-18 21:15:37.303498[Thread 0x00003d4c]:Unable to open the fileC:\Users\a0405u\3D\NozzleGridfinityBin.stp
+[error]	2025-03-18 21:15:37.311263[Thread 0x00001338]:Unable to open the fileC:\Users\a0405u\3D\CordSpool.stp
+[error]	2025-03-18 21:15:40.754127[Thread 0x000019cc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-03-18 21:15:41.431965[Thread 0x00002da4]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-03-18 21:15:46.613059[Thread 0x000019cc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-18 21:15:49.406198[Thread 0x000019cc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-18 21:34:02.869718[Thread 0x000019cc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-18 21:34:11.693855[Thread 0x000019cc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-18 21:34:11.693855[Thread 0x000019cc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-03-18 21:34:14.661007[Thread 0x00001ca8]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":40.000000,"printable_height":220.000000,
+[warning]	2025-03-18 21:34:15.669829[Thread 0x00001ca8]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":40.000000,"printable_height":220.000000,
+[error]	2025-03-18 21:40:30.877518[Thread 0x000019cc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

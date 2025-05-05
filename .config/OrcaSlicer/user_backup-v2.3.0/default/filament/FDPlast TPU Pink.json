@@ -1,0 +1,16 @@
+{
+    "default_filament_colour": [
+        "#FFD2D2"
+    ],
+    "filament_settings_id": [
+        "FDPlast TPU Pink"
+    ],
+    "filament_vendor": [
+        "FDPlast"
+    ],
+    "from": "User",
+    "inherits": "Flashforge Generic TPU",
+    "is_custom_defined": "0",
+    "name": "FDPlast TPU Pink",
+    "version": "2.0.2.0"
+}

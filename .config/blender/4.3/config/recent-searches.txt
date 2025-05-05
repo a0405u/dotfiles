@@ -1,0 +1,9 @@
+Generate ▸ Boolean
+Object ▸ Set Origin ▸ Origin to 3D Cursor
+  Empty
+  Camera.001
+Add (Shift A) ▸ Circle
+Add (Shift A) ▸ Mesh ▸ Create Bounding Box
+
+Deform ▸ Lattice
+Mesh ▸ Clean Up ▸ Merge by Distance

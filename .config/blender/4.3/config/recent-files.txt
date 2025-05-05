@@ -1,0 +1,3 @@
+/home/a0405u/three-dimentional/Silver/3dmap.blend
+/home/a0405u/dev/conrem/continuous-remeshing/data/template.blend
+/home/a0405u/dev/conrem/continuous-remeshing/scene/main.blend

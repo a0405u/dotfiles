@@ -1,0 +1,49 @@
+{
+    "default_filament_colour": [
+        "#FFE3D2"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "3.6"
+    ],
+    "filament_retraction_length": [
+        "1.2"
+    ],
+    "filament_settings_id": [
+        "TPU FDPlast Skin"
+    ],
+    "filament_type": [
+        "TPU"
+    ],
+    "filament_vendor": [
+        "FDPlast"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Flashforge Generic PLA",
+    "is_custom_defined": "0",
+    "name": "TPU FDPlast Skin",
+    "nozzle_temperature": [
+        "235"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "235"
+    ],
+    "nozzle_temperature_range_high": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.036"
+    ],
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "version": "2.0.2.0"
+}

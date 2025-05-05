@@ -1,0 +1,28 @@
+{
+    "default_filament_colour": [
+        "#DAF7F8"
+    ],
+    "filament_settings_id": [
+        "PLA FDPlast Pale Blue"
+    ],
+    "filament_vendor": [
+        "FDPlast"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "55"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Flashforge Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA FDPlast Pale Blue",
+    "pressure_advance": [
+        "0.036"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "version": "2.0.2.0"
+}

@@ -1,0 +1,22 @@
+super + q
+    berryc window_close
+super + shift + q
+    berryc quit
+super + f
+    berryc fullscreen
+super + shift + h
+    snap_left
+super + shift + l
+    snap_right
+~button1
+    berryc pointer_focus
+super + {0-9}
+    berryc switch_workspace {0-9}
+super + shift + {0-9}
+    berryc send_to_workspace {0-9}
+super + Tab
+    berryc cycle_focus
+super + c
+    berryc window_center
+super + m
+    berryc window_monocle

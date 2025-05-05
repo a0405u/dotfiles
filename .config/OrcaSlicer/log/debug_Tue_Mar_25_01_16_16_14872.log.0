@@ -1,0 +1,17 @@
+[warning]	2025-03-25 01:16:16.700246[Thread 0x0000403c]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-03-25 01:16:16.701243[Thread 0x0000403c]:Slic3r::NetworkAgent::get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-03-25 01:16:22.054368[Thread 0x0000403c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-25 01:16:22.078888[Thread 0x00000598]:Unable to open the fileC:\Users\a0405u\3D\moonpylogo.stl
+[error]	2025-03-25 01:16:22.078888[Thread 0x00004f84]:Unable to open the fileC:\Users\a0405u\3D\Printing\Downloads\printbed+scraper.stl
+[error]	2025-03-25 01:16:22.078888[Thread 0x00000598]:Unable to open the fileC:\Users\a0405u\Downloads\hue shell.3mf
+[error]	2025-03-25 01:16:22.083886[Thread 0x00004f4c]:Unable to open the fileC:\Users\a0405u\3D\BoardPegGlueGun.stp
+[error]	2025-03-25 01:16:22.084886[Thread 0x00003258]:Unable to open the fileC:\Users\a0405u\3D\Trackball.stp
+[error]	2025-03-25 01:16:22.090886[Thread 0x000049ec]:Unable to open the fileC:\Users\a0405u\3D\MarkedKeycapBox.stp
+[error]	2025-03-25 01:16:22.093885[Thread 0x0000499c]:Unable to open the fileC:\Users\a0405u\3D\NozzleGridfinityBin.stp
+[error]	2025-03-25 01:16:22.099884[Thread 0x00004850]:Unable to open the fileC:\Users\a0405u\3D\CordSpool.stp
+[error]	2025-03-25 01:16:25.226991[Thread 0x0000403c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-03-25 01:16:25.885988[Thread 0x000050fc]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-03-25 01:30:03.300915[Thread 0x0000403c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-25 01:30:34.779283[Thread 0x0000403c]:Unable to open the fileC:\Users\a0405u\3D\Printing\LampClamp.stp
+[error]	2025-03-25 01:31:24.780366[Thread 0x0000403c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-25 02:03:46.816437[Thread 0x0000403c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
